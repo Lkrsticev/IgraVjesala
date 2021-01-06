@@ -3,5 +3,5 @@ Igru Vješalo uglavnom smo svi upoznali igrajući je u krugu prijatelja, koriste
 
 Primjer:
 
-"Travu pase, nije prase. Ima roge, nema noge. Bez nogu poljem šeće, bez kuće nikud neće." ---
+"Travu pase, nije prase. Ima roge, nema noge. Bez nogu poljem šeće, bez kuće nikud neće." _ _ _
 (Rj. "PUŽ")
