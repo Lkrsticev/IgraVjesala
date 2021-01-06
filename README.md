@@ -5,5 +5,4 @@ Primjer:
 
 "Travu pase, nije prase. Ima roge, nema noge. Bez nogu poljem šeće, bez kuće nikud neće."
 _ _ _ 
-
 (Rj. "PUŽ")
