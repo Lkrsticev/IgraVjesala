@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T16:02:14.898Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="UR1cRQW1TmJepvYdFX97" version="14.2.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-01-14T16:32:50.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="IF3qHgemuWBaAu8_cyMr" version="14.2.3" type="github" pages="8">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -402,6 +402,69 @@
             </Array>
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mWtvQ6kEYjz8tR1Wci99" name="Dijagram klasa arhitekture Igre Vješala">
+    <mxGraphModel dx="868" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="Ckduz7qMlGHqTH-XJJHd-0" />
+        <mxCell id="Ckduz7qMlGHqTH-XJJHd-1" parent="Ckduz7qMlGHqTH-XJJHd-0" />
+        <mxCell id="0ZQxATCzyCgOZJlGyqI3-5" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="Ckduz7qMlGHqTH-XJJHd-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="-435.5" as="sourcePoint" />
+            <mxPoint x="320" y="-435.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ZQxATCzyCgOZJlGyqI3-18" value="«Model»&lt;br&gt;&lt;b&gt;Riječ&lt;/b&gt;" style="html=1;startSize=30;" vertex="1" parent="Ckduz7qMlGHqTH-XJJHd-1">
+          <mxGeometry x="50" y="-458" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZQxATCzyCgOZJlGyqI3-19" value="«Model»&lt;br&gt;&lt;b&gt;Slovo&lt;/b&gt;" style="html=1;startSize=30;" vertex="1" parent="Ckduz7qMlGHqTH-XJJHd-1">
+          <mxGeometry x="320" y="-460" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZQxATCzyCgOZJlGyqI3-20" value="«Model»&lt;br&gt;&lt;b&gt;Igrač&lt;/b&gt;" style="html=1;startSize=30;" vertex="1" parent="Ckduz7qMlGHqTH-XJJHd-1">
+          <mxGeometry x="320" y="-308" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZQxATCzyCgOZJlGyqI3-21" value="«Controller»&lt;br&gt;&lt;b&gt;Igra&lt;/b&gt;" style="html=1;startSize=30;" vertex="1" parent="Ckduz7qMlGHqTH-XJJHd-1">
+          <mxGeometry x="50" y="-308" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZQxATCzyCgOZJlGyqI3-24" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="Ckduz7qMlGHqTH-XJJHd-1" target="0ZQxATCzyCgOZJlGyqI3-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="-283.5" as="sourcePoint" />
+            <mxPoint x="310" y="-283.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ZQxATCzyCgOZJlGyqI3-27" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="Ckduz7qMlGHqTH-XJJHd-1" source="0ZQxATCzyCgOZJlGyqI3-21" target="0ZQxATCzyCgOZJlGyqI3-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="104.5" y="-338" as="sourcePoint" />
+            <mxPoint x="104.5" y="-388" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ZQxATCzyCgOZJlGyqI3-30" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="Ckduz7qMlGHqTH-XJJHd-1" target="0ZQxATCzyCgOZJlGyqI3-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="-408" as="sourcePoint" />
+            <mxPoint x="450" y="-368" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0ZQxATCzyCgOZJlGyqI3-33" value="«View»&lt;br&gt;&lt;b&gt;PrikazIgre&lt;/b&gt;" style="html=1;startSize=30;" vertex="1" parent="Ckduz7qMlGHqTH-XJJHd-1">
+          <mxGeometry x="50" y="-210" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZQxATCzyCgOZJlGyqI3-37" value="" style="endArrow=none;html=1;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Ckduz7qMlGHqTH-XJJHd-1" source="0ZQxATCzyCgOZJlGyqI3-21" target="0ZQxATCzyCgOZJlGyqI3-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="-230" as="sourcePoint" />
+            <mxPoint x="230" y="-230" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ai0-UECGRLWEKi1-veOs" name="Dijagram klasa modela Igre Vješala">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="dy0KcBAdUi3z-my1Jfc3-0" />
+        <mxCell id="dy0KcBAdUi3z-my1Jfc3-1" parent="dy0KcBAdUi3z-my1Jfc3-0" />
       </root>
     </mxGraphModel>
   </diagram>
