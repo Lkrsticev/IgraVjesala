@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T15:30:43.600Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="TCPYU6WU6qG5d3tAJfcx" version="14.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-14T15:46:29.773Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="rAkbLTRO5w6AM-qIbt9q" version="14.2.3" type="github" pages="5">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -231,6 +231,103 @@
         </mxCell>
         <mxCell id="p_5qRxw7ErOW9D0is9Pn-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="krG-ufowRGtU0hnai8Vx-1">
           <mxGeometry x="360" y="360" width="30" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="v5RKoNMn4YD1xQ0Edqm3" name="Activity: Pogađanje riječi">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-0" />
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-1" parent="pQWPrRYoLJMenO-4x-RL-0" />
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="pQWPrRYoLJMenO-4x-RL-1">
+          <mxGeometry x="384" y="80" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="pQWPrRYoLJMenO-4x-RL-2" parent="pQWPrRYoLJMenO-4x-RL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-4" value="Sustav prikaže zagonetku i duljinu riječi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="pQWPrRYoLJMenO-4x-RL-1">
+          <mxGeometry x="339" y="170" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="pQWPrRYoLJMenO-4x-RL-4" parent="pQWPrRYoLJMenO-4x-RL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-6" value="Igrač pogađa slovo" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="pQWPrRYoLJMenO-4x-RL-1">
+          <mxGeometry x="339" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-7" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="pQWPrRYoLJMenO-4x-RL-6" parent="pQWPrRYoLJMenO-4x-RL-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-8" value="Igrač je pogodio slovo" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="pQWPrRYoLJMenO-4x-RL-1">
+          <mxGeometry x="360" y="370" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-9" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="pQWPrRYoLJMenO-4x-RL-8" parent="pQWPrRYoLJMenO-4x-RL-1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="540" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-10" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="pQWPrRYoLJMenO-4x-RL-8" parent="pQWPrRYoLJMenO-4x-RL-1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="400" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-13" value="Igrač je ostavario 6 grešaka" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="pQWPrRYoLJMenO-4x-RL-1">
+          <mxGeometry x="540" y="370" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-14" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="pQWPrRYoLJMenO-4x-RL-13" parent="pQWPrRYoLJMenO-4x-RL-1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="460" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="390" />
+              <mxPoint x="680" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-15" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="pQWPrRYoLJMenO-4x-RL-13" parent="pQWPrRYoLJMenO-4x-RL-1" target="pQWPrRYoLJMenO-4x-RL-17">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="580" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-17" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="pQWPrRYoLJMenO-4x-RL-1">
+          <mxGeometry x="565" y="550" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-18" value="igrač pogodio riječ" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="pQWPrRYoLJMenO-4x-RL-1">
+          <mxGeometry x="360" y="465" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-19" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="pQWPrRYoLJMenO-4x-RL-18" parent="pQWPrRYoLJMenO-4x-RL-1" target="pQWPrRYoLJMenO-4x-RL-6">
+          <mxGeometry x="-0.8619" relative="1" as="geometry">
+            <mxPoint x="270" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="490" />
+              <mxPoint x="230" y="290" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-20" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="pQWPrRYoLJMenO-4x-RL-18" parent="pQWPrRYoLJMenO-4x-RL-1">
+          <mxGeometry x="-1" y="-10" relative="1" as="geometry">
+            <mxPoint x="400" y="570" as="targetPoint" />
+            <mxPoint x="10" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-22" value="Ispis ostvarenih bodova" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="pQWPrRYoLJMenO-4x-RL-1">
+          <mxGeometry x="340" y="570" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pQWPrRYoLJMenO-4x-RL-23" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="pQWPrRYoLJMenO-4x-RL-22" parent="pQWPrRYoLJMenO-4x-RL-1" target="pQWPrRYoLJMenO-4x-RL-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="701" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="720" />
+              <mxPoint x="530" y="720" />
+              <mxPoint x="530" y="565" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
