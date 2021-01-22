@@ -165,4 +165,11 @@ class Covjek(Igrac):
 
 class PrikazIgre()
     def prikaziPocetakIgre():
-        
+        print("*"*30+" IGRA VJEŠALA "+"*"*30)
+
+    def unesiIgraca():
+        while True:
+            ime=input("Unesi ime: ")
+            if ime.strip():
+                print("*"*50)
+                return ime.strip()
