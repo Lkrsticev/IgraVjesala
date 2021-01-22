@@ -164,9 +164,12 @@ class Covjek(Igrac):
         super(Covjek, self).__init__(ime)
 
 class PrikazIgre()
+
+    @staticmethod
     def prikaziPocetakIgre():
         print("*"*30+" IGRA VJEŠALA "+"*"*30)
 
+    @staticmethod
     def unesiIgraca():
         while True:
             ime=input("Unesi ime: ")
