@@ -163,3 +163,6 @@ class Covjek(Igrac):
     def __init__(self, ime):
         super(Covjek, self).__init__(ime)
 
+class PrikazIgre()
+    def prikaziPocetakIgre():
+        
