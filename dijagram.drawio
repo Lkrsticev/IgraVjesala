@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T16:11:47.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="qcGw86duIi3uPPtbHx4T" version="14.2.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-24T16:15:33.337Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="x7R1lmfI6Drhm3devNCk" version="14.2.7" type="github" pages="8">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="868" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -410,10 +410,10 @@
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="349" y="270" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="300" />
-              <mxPoint x="680" y="540" />
-              <mxPoint x="200" y="540" />
-              <mxPoint x="200" y="270" />
+              <mxPoint x="730" y="300" />
+              <mxPoint x="730" y="540" />
+              <mxPoint x="160" y="540" />
+              <mxPoint x="160" y="270" />
               <mxPoint x="349" y="270" />
             </Array>
           </mxGeometry>
