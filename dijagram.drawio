@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T16:20:18.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="rF774uZtoxjjaI2Kkylg" version="14.2.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-24T16:20:34.013Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="fXOWidQYgz4m5b6bgi71" version="14.2.7" type="github" pages="8">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="1038" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -266,6 +266,10 @@
         <mxCell id="pQWPrRYoLJMenO-4x-RL-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="pQWPrRYoLJMenO-4x-RL-1" source="pQWPrRYoLJMenO-4x-RL-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="399" y="170" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="399" y="140" />
+              <mxPoint x="399" y="140" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="pQWPrRYoLJMenO-4x-RL-4" value="Sustav prikaže zagonetku i duljinu riječi" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="pQWPrRYoLJMenO-4x-RL-1" vertex="1">
