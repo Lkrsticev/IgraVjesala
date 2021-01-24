@@ -96,6 +96,7 @@ class Rijec(object):
         'Što ima jedno uho, a ne može čuti.':'igla',
         'Ja sam ogledalo za slavne, a informator za sve ostale. Pokazat ću ti svijet, ali on će biti malen.':'televizija',
         'Ne vidiš me, al sam jak, lako dižem sve u zrak.':'vjetar',
+        'Leti bez krila, plače bez očiju.':'oblak',
         }
 
     @staticmethod
