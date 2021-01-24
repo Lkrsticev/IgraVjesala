@@ -95,6 +95,7 @@ class Rijec(object):
         'Leti nebom, ptica nije, zuji, brunda, insekt nije. Kad je žedan benzin pije, to pogoditi teško nije.':'avion',
         'Što ima jedno uho, a ne može čuti.':'igla',
         'Ja sam ogledalo za slavne, a informator za sve ostale. Pokazat ću ti svijet, ali on će biti malen.':'televizija',
+        'Ne vidiš me, al sam jak, lako dižem sve u zrak.':'vjetar',
         }
 
     @staticmethod
