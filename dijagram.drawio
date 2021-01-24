@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T15:42:35.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="jD1N1tlFlZA4le9c7QIh" version="14.2.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-24T15:42:54.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="RdrygnbVxIdbzkWiGxDi" version="14.2.7" type="github" pages="8">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="1108" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -143,9 +143,10 @@
         <mxCell id="8glMOwJfJuNUVCbfL2xH-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="8glMOwJfJuNUVCbfL2xH-1" vertex="1">
           <mxGeometry x="300" y="20" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8glMOwJfJuNUVCbfL2xH-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="8glMOwJfJuNUVCbfL2xH-1" source="8glMOwJfJuNUVCbfL2xH-2" edge="1">
+        <mxCell id="8glMOwJfJuNUVCbfL2xH-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="8glMOwJfJuNUVCbfL2xH-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="315" y="110" as="targetPoint" />
+            <mxPoint x="315" y="40" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="8glMOwJfJuNUVCbfL2xH-4" value="Sustav prikaže unos imena" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="8glMOwJfJuNUVCbfL2xH-1" vertex="1">
