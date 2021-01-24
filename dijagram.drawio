@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T14:10:41.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="atqxLpMuB8WH18J8jQ04" version="14.2.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-24T14:11:56.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="oZpnRPhEMRMnrE60-tE4" version="14.2.7" type="github" pages="8">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -486,7 +486,7 @@
         <mxCell id="uDubxbUlJt-z4bXhfUuw-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Model&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Igrač&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ __init__(ime)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ &amp;lt;&amp;lt;get&amp;gt;&amp;gt; +ime()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ unesiSlovo()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;startSize=30;" parent="dy0KcBAdUi3z-my1Jfc3-1" vertex="1">
           <mxGeometry x="40" y="300" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="pi4fFsw95bU51Di5B4iO-4" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;exitX=0.465;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;" parent="dy0KcBAdUi3z-my1Jfc3-1" source="uDubxbUlJt-z4bXhfUuw-10" edge="1">
+        <mxCell id="pi4fFsw95bU51Di5B4iO-4" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;exitX=0.465;exitY=-0.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="dy0KcBAdUi3z-my1Jfc3-1" source="uDubxbUlJt-z4bXhfUuw-10" edge="1" target="uDubxbUlJt-z4bXhfUuw-9">
           <mxGeometry x="-0.9999" y="-7" relative="1" as="geometry">
             <mxPoint x="130" y="260" as="sourcePoint" />
             <mxPoint x="165" y="220" as="targetPoint" />
