@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T14:49:04.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="BcrZMmhL5PunTtHmcMQL" version="14.2.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-24T15:12:05.000Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="SvDI8CK0kXXl0pnBsI-X" version="14.2.7" type="github" pages="8">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A4QDlll-oGeCQvx7pcKY" name="Activity: Igranje Vješala">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="477" dy="445" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Zv0s2zPi0mleXZcaLCtx-0" />
         <mxCell id="Zv0s2zPi0mleXZcaLCtx-1" parent="Zv0s2zPi0mleXZcaLCtx-0" />
@@ -136,7 +136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lLZ3rtmIU1pkREQOlgfz" name="Activity: Unos imena">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8glMOwJfJuNUVCbfL2xH-0" />
         <mxCell id="8glMOwJfJuNUVCbfL2xH-1" parent="8glMOwJfJuNUVCbfL2xH-0" />
@@ -204,7 +204,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DXntMrccITSF2kXupRxk" name="Activity: Generiranje zagonetki">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="krG-ufowRGtU0hnai8Vx-0" />
         <mxCell id="krG-ufowRGtU0hnai8Vx-1" parent="krG-ufowRGtU0hnai8Vx-0" />
@@ -240,7 +240,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="v5RKoNMn4YD1xQ0Edqm3" name="Activity: Pogađanje riječi">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="pQWPrRYoLJMenO-4x-RL-0" />
         <mxCell id="pQWPrRYoLJMenO-4x-RL-1" parent="pQWPrRYoLJMenO-4x-RL-0" />
@@ -337,7 +337,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-vGzhyjU4xxyUd9wYPJS" name="Activity: Bodovanje">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kJpD3P7xj_tBXJAkQ2O7-0" />
         <mxCell id="kJpD3P7xj_tBXJAkQ2O7-1" parent="kJpD3P7xj_tBXJAkQ2O7-0" />
@@ -410,7 +410,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mWtvQ6kEYjz8tR1Wci99" name="Dijagram klasa arhitekture Igre Vješala">
-    <mxGraphModel dx="1108" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ckduz7qMlGHqTH-XJJHd-0" />
         <mxCell id="Ckduz7qMlGHqTH-XJJHd-1" parent="Ckduz7qMlGHqTH-XJJHd-0" />
@@ -470,7 +470,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ai0-UECGRLWEKi1-veOs" name="Dijagram klasa modela Igre Vješala">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="984" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dy0KcBAdUi3z-my1Jfc3-0" />
         <mxCell id="dy0KcBAdUi3z-my1Jfc3-1" parent="dy0KcBAdUi3z-my1Jfc3-0" />
@@ -480,8 +480,8 @@
             <mxPoint x="165" y="170" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uDubxbUlJt-z4bXhfUuw-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Model&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Riječ&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ __rijec_info (&#39;Vodu pije, a živo nije&#39;:&#39;spužva&#39;)&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ __init__(zagonetka, rjesenje, pogodeno=False)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ zagonetke()&lt;br&gt;+ rjesenje()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&amp;lt;&amp;lt;get, set&amp;gt;&amp;gt; + pogodena()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+__repr__()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+__str__()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+randomZagonetka()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+vjesanje(pogresnaSlova,tocnaSlova,tajnaRijec)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;startSize=30;" parent="dy0KcBAdUi3z-my1Jfc3-1" vertex="1">
-          <mxGeometry x="20" y="20" width="290" height="190" as="geometry" />
+        <mxCell id="uDubxbUlJt-z4bXhfUuw-9" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Model&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Riječ&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ __rijec_info (&#39;Vodu pije, a živo nije&#39;:&#39;spužva&#39;)&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ __init__(zagonetka, rjesenje, pogodeno=False)&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ zagonetke()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ zagonetka()&lt;br&gt;+ rjesenje()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&amp;lt;&amp;lt;get, set&amp;gt;&amp;gt; + pogodena()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+__repr__()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+__str__()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+randomZagonetka()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+vjesanje(pogresnaSlova,tocnaSlova,tajnaRijec)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;startSize=30;" parent="dy0KcBAdUi3z-my1Jfc3-1" vertex="1">
+          <mxGeometry x="20" y="20" width="290" height="210" as="geometry" />
         </mxCell>
         <mxCell id="uDubxbUlJt-z4bXhfUuw-10" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Model&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Igrač&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ __init__(ime)&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+__str__()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ &amp;lt;&amp;lt;get&amp;gt;&amp;gt; +ime()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ pogodi()&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;shadow=0;startSize=30;" parent="dy0KcBAdUi3z-my1Jfc3-1" vertex="1">
           <mxGeometry x="30" y="320" width="190" height="120" as="geometry" />
