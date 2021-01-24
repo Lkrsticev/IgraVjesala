@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T15:31:10.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="IzEbTBLFjf1XNyzCqiSQ" version="14.2.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-24T15:31:28.327Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="vP2jryvDmLAu8AfHL75D" version="14.2.7" type="github" pages="8">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -518,15 +518,12 @@
             <mxPoint x="490" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0YfC1nw5rinYrNoYuHda-2" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.581;exitDx=0;exitDy=0;exitPerimeter=0;" parent="dy0KcBAdUi3z-my1Jfc3-1" source="0YfC1nw5rinYrNoYuHda-0" target="uDubxbUlJt-z4bXhfUuw-10" edge="1">
+        <mxCell id="0YfC1nw5rinYrNoYuHda-2" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="dy0KcBAdUi3z-my1Jfc3-1" target="uDubxbUlJt-z4bXhfUuw-10" edge="1">
           <mxGeometry x="-1" y="3" relative="1" as="geometry">
-            <mxPoint x="330" y="350" as="sourcePoint" />
+            <mxPoint x="430" y="390" as="sourcePoint" />
             <mxPoint x="490" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="390" y="369" />
-              <mxPoint x="390" y="371" />
-              <mxPoint x="360" y="371" />
-              <mxPoint x="360" y="390" />
+              <mxPoint x="430" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
