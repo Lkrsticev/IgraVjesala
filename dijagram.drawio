@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T13:20:56.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="1GO03s2cTiyZw60594N4" version="14.2.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-01-24T13:21:24.590Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="NCJBmFiamonrCppOf1wW" version="14.2.7" type="github" pages="9">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -20,13 +20,13 @@
           <mxGeometry x="420" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uMafSdMmmjQVVe1kIT9z-7" value="Generiranje zagonetki" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="414" y="100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uMafSdMmmjQVVe1kIT9z-8" value="Pogađanje riječi" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="190" width="120" height="80" as="geometry" />
+          <mxGeometry x="420" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uMafSdMmmjQVVe1kIT9z-9" value="Bodovanje" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="280" width="120" height="80" as="geometry" />
+          <mxGeometry x="414" y="290" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uMafSdMmmjQVVe1kIT9z-11" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="uMafSdMmmjQVVe1kIT9z-2" target="uMafSdMmmjQVVe1kIT9z-7" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
