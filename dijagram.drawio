@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T13:58:37.856Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="5gUVCRJNOz69640aLFoF" version="14.2.7" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-01-24T13:59:21.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="9RBT-HibBIEmkTrZz91_" version="14.2.7" type="github" pages="9">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -456,12 +456,12 @@
         <mxCell id="8oEEUFAKbSYk8f0yRyIk-0" value="«Model»&lt;br&gt;&lt;b&gt;Čovjek&lt;/b&gt;" style="html=1;" parent="Ckduz7qMlGHqTH-XJJHd-1" vertex="1">
           <mxGeometry x="359" y="-840" width="101" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8oEEUFAKbSYk8f0yRyIk-1" value="" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.1;exitY=-0.024;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.273;entryY=0.96;entryDx=0;entryDy=0;entryPerimeter=0;" parent="Ckduz7qMlGHqTH-XJJHd-1" source="8oEEUFAKbSYk8f0yRyIk-0" target="0ZQxATCzyCgOZJlGyqI3-20" edge="1">
+        <mxCell id="8oEEUFAKbSYk8f0yRyIk-1" value="" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="Ckduz7qMlGHqTH-XJJHd-1" target="0ZQxATCzyCgOZJlGyqI3-20" edge="1">
           <mxGeometry x="-0.5228" y="-10" width="80" relative="1" as="geometry">
-            <mxPoint x="370" y="-870" as="sourcePoint" />
+            <mxPoint x="395" y="-842" as="sourcePoint" />
             <mxPoint x="370" y="-910" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="370" y="-880" />
+              <mxPoint x="395" y="-880" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
