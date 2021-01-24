@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T15:34:11.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="ejWCkvrQL_hA2KgPZiFu" version="14.2.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-24T15:34:29.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="lIwvQHnsN3xpMfgvP6q0" version="14.2.7" type="github" pages="8">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -350,7 +350,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kJpD3P7xj_tBXJAkQ2O7-10" value="Igrač je pogodio slovo" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" parent="kJpD3P7xj_tBXJAkQ2O7-1" vertex="1">
-          <mxGeometry x="360" y="310" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="300" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kJpD3P7xj_tBXJAkQ2O7-11" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="kJpD3P7xj_tBXJAkQ2O7-1" source="kJpD3P7xj_tBXJAkQ2O7-10" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
