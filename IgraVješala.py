@@ -187,7 +187,7 @@ class PrikazIgre(object):
             print ("\nUpute:\n" \
                   "Sustav će generirati i prikazati jednu random zagonetku, te će se prikazati njena duljina u obliku crtica.\n" \
                   "U svakom pokušaju trebate unijeti jedno slovo i tako pogoditi određenu zagonetku. Na samom početku dodijeljeno Vam je 6 bodova.\n" \
-                  "Svakom pogreškom sve ste bliže gubitku igre. Dok Vam svako pogođeno slovo donosi dodatna 2 boda, svaka pogreška Vas košta 1 boda.\n" \
+                  "Svakom pogreškom sve ste bliže gubitku igre. Svako pogođeno slovo donosi dodatna 2 boda, svaka pogreška Vas košta 1 boda.\n" \
                    "Cilj je uz što manje pogrešaka pogoditi prikazanu zagonetku.\nSretno :) " ) 
         print ("Vrijeme je za igru!\n")
 
