@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T15:21:15.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="7Oc5vI-FY2EO0HKdUTKw" version="14.2.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-24T15:22:33.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="u_QgEiOiGb9Mg2VM797R" version="14.2.7" type="github" pages="8">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="984" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -337,7 +337,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-vGzhyjU4xxyUd9wYPJS" name="Activity: Bodovanje">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="984" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kJpD3P7xj_tBXJAkQ2O7-0" />
         <mxCell id="kJpD3P7xj_tBXJAkQ2O7-1" parent="kJpD3P7xj_tBXJAkQ2O7-0" />
@@ -410,7 +410,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mWtvQ6kEYjz8tR1Wci99" name="Dijagram klasa arhitekture Igre Vješala">
-    <mxGraphModel dx="868" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="984" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ckduz7qMlGHqTH-XJJHd-0" />
         <mxCell id="Ckduz7qMlGHqTH-XJJHd-1" parent="Ckduz7qMlGHqTH-XJJHd-0" />
@@ -470,7 +470,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ai0-UECGRLWEKi1-veOs" name="Dijagram klasa modela Igre Vješala">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="801" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dy0KcBAdUi3z-my1Jfc3-0" />
         <mxCell id="dy0KcBAdUi3z-my1Jfc3-1" parent="dy0KcBAdUi3z-my1Jfc3-0" />
