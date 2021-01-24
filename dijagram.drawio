@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T15:36:30.342Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="Uz90hG_g7Pcd8PLkQbM8" version="14.2.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-24T15:37:14.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="ynXMFadbX-za29t8Bg0H" version="14.2.7" type="github" pages="8">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,9 +208,6 @@
       <root>
         <mxCell id="krG-ufowRGtU0hnai8Vx-0" />
         <mxCell id="krG-ufowRGtU0hnai8Vx-1" parent="krG-ufowRGtU0hnai8Vx-0" />
-        <mxCell id="krG-ufowRGtU0hnai8Vx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="krG-ufowRGtU0hnai8Vx-1" source="krG-ufowRGtU0hnai8Vx-2" target="krG-ufowRGtU0hnai8Vx-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="krG-ufowRGtU0hnai8Vx-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="krG-ufowRGtU0hnai8Vx-1" vertex="1">
           <mxGeometry x="360" y="60" width="30" height="30" as="geometry" />
         </mxCell>
