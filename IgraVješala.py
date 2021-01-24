@@ -267,6 +267,7 @@ class Igra(object):
                 else:
                     break
 
+    
     def igranjeVjesala(self):
         self.prikaz.prikaziPocetakIgre()
         self.prikaz.unesiIgraca()
