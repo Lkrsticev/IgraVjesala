@@ -93,6 +93,7 @@ class Rijec(object):
         'Daj mi hrane živjet ću, daj mi vode umrijet ću.':'vatra',
         'Danju svakog vjerno prati, a noću je nikad nema.':'sjena',
         'Leti nebom, ptica nije, zuji, brunda, insekt nije. Kad je žedan benzin pije, to pogoditi teško nije.':'avion',
+        'Što ima jedno uho, a ne mpže čuti.':'igla',
         }
 
     @staticmethod
