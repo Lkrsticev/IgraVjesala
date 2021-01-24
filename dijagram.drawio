@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-24T15:43:20.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="dMkMEYmuZDPn24WZ27UR" version="14.2.7" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2021-01-24T16:09:31.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="pmp-b509CmMy4qUZY_qA" version="14.2.7" type="github" pages="8">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
-    <mxGraphModel dx="1108" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A4QDlll-oGeCQvx7pcKY" name="Activity: Igranje Vješala">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Zv0s2zPi0mleXZcaLCtx-0" />
         <mxCell id="Zv0s2zPi0mleXZcaLCtx-1" parent="Zv0s2zPi0mleXZcaLCtx-0" />
@@ -136,7 +136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lLZ3rtmIU1pkREQOlgfz" name="Activity: Unos imena">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="8glMOwJfJuNUVCbfL2xH-0" />
         <mxCell id="8glMOwJfJuNUVCbfL2xH-1" parent="8glMOwJfJuNUVCbfL2xH-0" />
@@ -205,14 +205,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DXntMrccITSF2kXupRxk" name="Activity: Generiranje zagonetki">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="krG-ufowRGtU0hnai8Vx-0" />
         <mxCell id="krG-ufowRGtU0hnai8Vx-1" parent="krG-ufowRGtU0hnai8Vx-0" />
         <mxCell id="krG-ufowRGtU0hnai8Vx-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="krG-ufowRGtU0hnai8Vx-1" vertex="1">
           <mxGeometry x="365" y="40" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O4cbk9dbyA0JluWbLkqz-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="krG-ufowRGtU0hnai8Vx-1" source="krG-ufowRGtU0hnai8Vx-3" target="p_5qRxw7ErOW9D0is9Pn-0">
+        <mxCell id="O4cbk9dbyA0JluWbLkqz-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="krG-ufowRGtU0hnai8Vx-1" source="krG-ufowRGtU0hnai8Vx-3" target="p_5qRxw7ErOW9D0is9Pn-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="krG-ufowRGtU0hnai8Vx-3" value="Random se generira zagonetka" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="krG-ufowRGtU0hnai8Vx-1" vertex="1">
@@ -237,7 +237,7 @@
         <mxCell id="p_5qRxw7ErOW9D0is9Pn-2" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="krG-ufowRGtU0hnai8Vx-1" vertex="1">
           <mxGeometry x="365" y="340" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="O4cbk9dbyA0JluWbLkqz-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="krG-ufowRGtU0hnai8Vx-1" source="krG-ufowRGtU0hnai8Vx-2">
+        <mxCell id="O4cbk9dbyA0JluWbLkqz-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="krG-ufowRGtU0hnai8Vx-1" source="krG-ufowRGtU0hnai8Vx-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="379.5" y="140" as="targetPoint" />
             <Array as="points">
@@ -250,11 +250,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="v5RKoNMn4YD1xQ0Edqm3" name="Activity: Pogađanje riječi">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="pQWPrRYoLJMenO-4x-RL-0" />
         <mxCell id="pQWPrRYoLJMenO-4x-RL-1" parent="pQWPrRYoLJMenO-4x-RL-0" />
-        <mxCell id="PLRM1VCSRUN1PJNMYGaR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pQWPrRYoLJMenO-4x-RL-1" target="pQWPrRYoLJMenO-4x-RL-4">
+        <mxCell id="PLRM1VCSRUN1PJNMYGaR-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="pQWPrRYoLJMenO-4x-RL-1" target="pQWPrRYoLJMenO-4x-RL-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="399" y="120" as="sourcePoint" />
           </mxGeometry>
@@ -352,7 +352,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-vGzhyjU4xxyUd9wYPJS" name="Activity: Bodovanje">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="kJpD3P7xj_tBXJAkQ2O7-0" />
         <mxCell id="kJpD3P7xj_tBXJAkQ2O7-1" parent="kJpD3P7xj_tBXJAkQ2O7-0" />
@@ -376,7 +376,7 @@
             <mxPoint x="529" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kJpD3P7xj_tBXJAkQ2O7-12" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="kJpD3P7xj_tBXJAkQ2O7-1" source="kJpD3P7xj_tBXJAkQ2O7-10" edge="1" target="kJpD3P7xj_tBXJAkQ2O7-17">
+        <mxCell id="kJpD3P7xj_tBXJAkQ2O7-12" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="kJpD3P7xj_tBXJAkQ2O7-1" source="kJpD3P7xj_tBXJAkQ2O7-10" target="kJpD3P7xj_tBXJAkQ2O7-17" edge="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="394" y="370" as="targetPoint" />
           </mxGeometry>
@@ -429,7 +429,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mWtvQ6kEYjz8tR1Wci99" name="Dijagram klasa arhitekture Igre Vješala">
-    <mxGraphModel dx="1108" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Ckduz7qMlGHqTH-XJJHd-0" />
         <mxCell id="Ckduz7qMlGHqTH-XJJHd-1" parent="Ckduz7qMlGHqTH-XJJHd-0" />
@@ -489,7 +489,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ai0-UECGRLWEKi1-veOs" name="Dijagram klasa modela Igre Vješala">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="dy0KcBAdUi3z-my1Jfc3-0" />
         <mxCell id="dy0KcBAdUi3z-my1Jfc3-1" parent="dy0KcBAdUi3z-my1Jfc3-0" />
@@ -517,7 +517,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="1JEkJE5I6xCqgypSyw0K-4" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Model&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Čovjek&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin: 0px ; margin-left: 4px&quot;&gt;+ __init__(ime)&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" parent="dy0KcBAdUi3z-my1Jfc3-1" vertex="1">
-          <mxGeometry x="30" y="550" width="190" height="100" as="geometry" />
+          <mxGeometry x="30" y="560" width="190" height="100" as="geometry" />
         </mxCell>
         <mxCell id="1JEkJE5I6xCqgypSyw0K-5" value="" style="html=1;verticalAlign=bottom;endArrow=block;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="dy0KcBAdUi3z-my1Jfc3-1" source="1JEkJE5I6xCqgypSyw0K-4" target="uDubxbUlJt-z4bXhfUuw-10" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
