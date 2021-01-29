@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T19:47:40.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="E8pq6kjhLbzMhbmQu-Oo" version="14.2.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-01-29T20:02:32.004Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="pWXclw3uTGFMObVWzBD5" version="14.2.9" type="github" pages="10">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="1108" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -613,6 +613,14 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DTWf55XmLp7FyhrIUcBw" name="Dijagram slijeda igranja Vješala">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="bM9TYZLK7Yx_k6iFeGvT-0" />
+        <mxCell id="bM9TYZLK7Yx_k6iFeGvT-1" parent="bM9TYZLK7Yx_k6iFeGvT-0" />
       </root>
     </mxGraphModel>
   </diagram>
