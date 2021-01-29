@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T20:59:45.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="JDuVyExNakXELSXRFESb" version="14.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-01-29T21:06:48.380Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="WHJjwF4f78l4sFqPYGY0" version="14.2.9" type="github" pages="12">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="1108" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -747,25 +747,25 @@
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-0" />
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-1" parent="jQXUa_FAPt4DyaAIMkiV-0" />
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-2" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" vertex="1" parent="jQXUa_FAPt4DyaAIMkiV-1">
-          <mxGeometry x="50" y="30" width="20" height="300" as="geometry" />
+          <mxGeometry x="50" y="30" width="20" height="470" as="geometry" />
         </mxCell>
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-3" value="main" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="jQXUa_FAPt4DyaAIMkiV-1">
-          <mxGeometry x="140" y="30" width="100" height="300" as="geometry" />
+          <mxGeometry x="140" y="30" width="100" height="470" as="geometry" />
         </mxCell>
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-4" value="igra: Igra" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="jQXUa_FAPt4DyaAIMkiV-1">
-          <mxGeometry x="290" y="30" width="100" height="300" as="geometry" />
+          <mxGeometry x="290" y="30" width="100" height="470" as="geometry" />
         </mxCell>
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-5" value="prikaz: PrikazIgre" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="jQXUa_FAPt4DyaAIMkiV-1">
-          <mxGeometry x="430" y="30" width="100" height="300" as="geometry" />
+          <mxGeometry x="430" y="30" width="100" height="470" as="geometry" />
         </mxCell>
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-6" value=":Igrac" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="jQXUa_FAPt4DyaAIMkiV-1">
-          <mxGeometry x="560" y="30" width="100" height="300" as="geometry" />
+          <mxGeometry x="560" y="30" width="100" height="460" as="geometry" />
         </mxCell>
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-7" value=":Rijec" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="jQXUa_FAPt4DyaAIMkiV-1">
-          <mxGeometry x="700" y="30" width="100" height="300" as="geometry" />
+          <mxGeometry x="700" y="30" width="100" height="470" as="geometry" />
         </mxCell>
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="jQXUa_FAPt4DyaAIMkiV-1">
-          <mxGeometry x="330" y="100" width="10" height="220" as="geometry" />
+          <mxGeometry x="330" y="100" width="10" height="390" as="geometry" />
         </mxCell>
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-9" value="1: pogadanjeSlova()" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" target="jQXUa_FAPt4DyaAIMkiV-8" parent="jQXUa_FAPt4DyaAIMkiV-1" source="jQXUa_FAPt4DyaAIMkiV-3">
           <mxGeometry relative="1" as="geometry">
@@ -787,7 +787,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-13" value="" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="jQXUa_FAPt4DyaAIMkiV-1">
-          <mxGeometry x="274" y="170" width="140" height="90" as="geometry" />
+          <mxGeometry x="265" y="180" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
