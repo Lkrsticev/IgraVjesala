@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-29T19:40:31.917Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="K9nqffUQ9b8tk7_N9jnA" version="14.2.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2021-01-29T19:42:41.701Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="R5PEeEuGWH0axOqDBguy" version="14.2.9" type="github" pages="9">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="1108" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -569,7 +569,7 @@
           <mxGeometry x="180" y="40" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="i5dP4JuD41xSk7n3vlbe-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="i5dP4JuD41xSk7n3vlbe-3">
-          <mxGeometry x="50" y="110" width="10" height="40" as="geometry" />
+          <mxGeometry x="50" y="110" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="i5dP4JuD41xSk7n3vlbe-4" value="igra: Igra" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="i5dP4JuD41xSk7n3vlbe-1">
           <mxGeometry x="320" y="40" width="100" height="300" as="geometry" />
@@ -583,11 +583,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i5dP4JuD41xSk7n3vlbe-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="i5dP4JuD41xSk7n3vlbe-1">
-          <mxGeometry x="360" y="210" width="10" height="80" as="geometry" />
+          <mxGeometry x="360" y="210" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="i5dP4JuD41xSk7n3vlbe-8" value="2: __init__()" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" target="i5dP4JuD41xSk7n3vlbe-7" parent="i5dP4JuD41xSk7n3vlbe-1" source="i5dP4JuD41xSk7n3vlbe-2">
+        <mxCell id="i5dP4JuD41xSk7n3vlbe-8" value="2: __init__(prikaz)" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" target="i5dP4JuD41xSk7n3vlbe-7" parent="i5dP4JuD41xSk7n3vlbe-1" source="i5dP4JuD41xSk7n3vlbe-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="300" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i5dP4JuD41xSk7n3vlbe-9" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="i5dP4JuD41xSk7n3vlbe-1">
+          <mxGeometry x="360" y="260" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i5dP4JuD41xSk7n3vlbe-10" value="3: igranjeVjesala()" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" target="i5dP4JuD41xSk7n3vlbe-9" parent="i5dP4JuD41xSk7n3vlbe-1" source="i5dP4JuD41xSk7n3vlbe-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="260" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="230" y="260" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
