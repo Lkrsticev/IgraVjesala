@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T16:53:19.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="cv9mndqqH7OLBzNVmtXL" version="14.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-01-31T16:55:17.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="_5e-7Q9VRPAmL_Z-zuSJ" version="14.2.9" type="github" pages="12">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="1108" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -926,22 +926,10 @@
         <mxCell id="GQH2nUB1eIOCjcSmoc6x-26" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="jQXUa_FAPt4DyaAIMkiV-1" vertex="1">
           <mxGeometry x="150" y="560" width="300" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GQH2nUB1eIOCjcSmoc6x-28" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="jQXUa_FAPt4DyaAIMkiV-1" vertex="1">
-          <mxGeometry x="630" y="630" width="10" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="GQH2nUB1eIOCjcSmoc6x-29" value="" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" parent="jQXUa_FAPt4DyaAIMkiV-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="630" as="sourcePoint" />
-            <mxPoint x="640" y="630" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="426" y="630" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GQH2nUB1eIOCjcSmoc6x-31" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="jQXUa_FAPt4DyaAIMkiV-1" vertex="1">
           <mxGeometry x="130" y="690" width="520" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="GQH2nUB1eIOCjcSmoc6x-36" value="" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="jQXUa_FAPt4DyaAIMkiV-1" vertex="1">
+        <mxCell id="GQH2nUB1eIOCjcSmoc6x-36" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="jQXUa_FAPt4DyaAIMkiV-1" vertex="1">
           <mxGeometry x="190" y="750" width="370" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GQH2nUB1eIOCjcSmoc6x-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="jQXUa_FAPt4DyaAIMkiV-1" vertex="1">
@@ -959,6 +947,14 @@
             <mxPoint x="130" y="880" as="sourcePoint" />
             <mxPoint x="640" y="847" as="targetPoint" />
             <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KBV5rBORpAnd8UN10AHS-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="jQXUa_FAPt4DyaAIMkiV-1">
+          <mxGeometry x="630" y="610" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KBV5rBORpAnd8UN10AHS-3" value="vjesanje(krivaSlova, tocnaSlova, tajnaRijec)" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" target="KBV5rBORpAnd8UN10AHS-2" parent="jQXUa_FAPt4DyaAIMkiV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="610" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
