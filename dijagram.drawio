@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T15:51:52.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="I8IuYX_ntVQMnzJ8O386" version="14.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-01-31T16:47:51.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="WE2cEIQMyqTAgMtmxFz_" version="14.2.9" type="github" pages="12">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="868" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -728,7 +728,7 @@
           <mxGeometry width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="bM9TYZLK7Yx_k6iFeGvT-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="bM9TYZLK7Yx_k6iFeGvT-1" vertex="1">
-          <mxGeometry x="240.5" y="120" width="10" height="190" as="geometry" />
+          <mxGeometry x="240.5" y="120" width="10" height="180" as="geometry" />
         </mxCell>
         <mxCell id="bM9TYZLK7Yx_k6iFeGvT-6" value="igranjeVješala" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" parent="bM9TYZLK7Yx_k6iFeGvT-1" source="bM9TYZLK7Yx_k6iFeGvT-2" target="bM9TYZLK7Yx_k6iFeGvT-5" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -846,7 +846,7 @@
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-2" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;" parent="jQXUa_FAPt4DyaAIMkiV-1" vertex="1">
           <mxGeometry x="50" y="30" width="25" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="jTdCqD3QUEBxNfltniI4-0" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="jQXUa_FAPt4DyaAIMkiV-2" vertex="1">
+        <mxCell id="jTdCqD3QUEBxNfltniI4-0" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="jQXUa_FAPt4DyaAIMkiV-2" vertex="1">
           <mxGeometry width="25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-3" value="main" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="jQXUa_FAPt4DyaAIMkiV-1" vertex="1">
@@ -862,10 +862,7 @@
           <mxGeometry x="560" y="30" width="100" height="460" as="geometry" />
         </mxCell>
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-7" value=":Rijec" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="jQXUa_FAPt4DyaAIMkiV-1" vertex="1">
-          <mxGeometry x="700" y="30" width="105" height="470" as="geometry" />
-        </mxCell>
-        <mxCell id="60iIIO4tl9BAifE5ynTk-0" value=":Rijec" style="html=1;" parent="jQXUa_FAPt4DyaAIMkiV-7" vertex="1">
-          <mxGeometry width="105" height="40" as="geometry" />
+          <mxGeometry x="692.5" y="30" width="105" height="470" as="geometry" />
         </mxCell>
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="jQXUa_FAPt4DyaAIMkiV-1" vertex="1">
           <mxGeometry x="330" y="100" width="10" height="390" as="geometry" />
@@ -889,8 +886,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jQXUa_FAPt4DyaAIMkiV-13" value="" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="jQXUa_FAPt4DyaAIMkiV-1" vertex="1">
-          <mxGeometry x="265" y="190" width="140" height="90" as="geometry" />
+        <mxCell id="jQXUa_FAPt4DyaAIMkiV-13" value="while loop" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="jQXUa_FAPt4DyaAIMkiV-1" vertex="1">
+          <mxGeometry x="230" y="130" width="310" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dwaweHAv46gAyszmi-Ar-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="jQXUa_FAPt4DyaAIMkiV-1">
+          <mxGeometry x="476" y="150" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dwaweHAv46gAyszmi-Ar-5" value="&lt;font style=&quot;font-size: 9px&quot;&gt;3:&amp;nbsp;&lt;span class=&quot;pl-en&quot; style=&quot;box-sizing: border-box&quot;&gt;vjesanje&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46)&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box ; color: rgb(36 , 41 , 46)&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46)&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box ; color: rgb(36 , 41 , 46)&quot;&gt;__krivaSlova&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46)&quot;&gt;, &lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box ; color: rgb(36 , 41 , 46)&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46)&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box ; color: rgb(36 , 41 , 46)&quot;&gt;__tocnaSlova&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46)&quot;&gt;, &lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box ; color: rgb(36 , 41 , 46)&quot;&gt;tajnaRijec&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46)&quot;&gt;)&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" parent="jQXUa_FAPt4DyaAIMkiV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="150" as="sourcePoint" />
+            <mxPoint x="479.5" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dwaweHAv46gAyszmi-Ar-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="jQXUa_FAPt4DyaAIMkiV-1">
+          <mxGeometry x="480" y="210" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dwaweHAv46gAyszmi-Ar-7" value="4&lt;font style=&quot;font-size: 9px&quot;&gt;:&amp;nbsp;&lt;span class=&quot;pl-en&quot; style=&quot;box-sizing: border-box ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace&quot;&gt;pogodi&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box ; color: rgb(36 , 41 , 46) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box ; color: rgb(36 , 41 , 46) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace&quot;&gt;__krivaSlova&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace&quot;&gt; &lt;/span&gt;&lt;span class=&quot;pl-c1&quot; style=&quot;box-sizing: border-box ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace&quot;&gt;+&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace&quot;&gt; &lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box ; color: rgb(36 , 41 , 46) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace&quot;&gt;self&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;pl-s1&quot; style=&quot;box-sizing: border-box ; color: rgb(36 , 41 , 46) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace&quot;&gt;__tocnaSlova&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46) ; font-family: , &amp;#34;consolas&amp;#34; , &amp;#34;liberation mono&amp;#34; , &amp;#34;menlo&amp;#34; , monospace&quot;&gt;)&lt;/span&gt;&lt;/font&gt;" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" edge="1" target="dwaweHAv46gAyszmi-Ar-6" parent="jQXUa_FAPt4DyaAIMkiV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="210" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
