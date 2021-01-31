@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T17:05:10.832Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="rnZugzAKixBqKu3X-RPg" version="14.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-01-31T17:06:22.809Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="CneCvIqtDxuK8uf8f0tb" version="14.2.9" type="github" pages="12">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="1108" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -852,7 +852,7 @@
           <mxGeometry x="320" y="20" width="100" height="1020" as="geometry" />
         </mxCell>
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-6" value=":Igrac" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="jQXUa_FAPt4DyaAIMkiV-1" vertex="1">
-          <mxGeometry x="450" y="20" width="100" height="1020" as="geometry" />
+          <mxGeometry x="460" y="20" width="100" height="1020" as="geometry" />
         </mxCell>
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-7" value=":Rijec" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" parent="jQXUa_FAPt4DyaAIMkiV-1" vertex="1">
           <mxGeometry x="590" y="20" width="105" height="1020" as="geometry" />
