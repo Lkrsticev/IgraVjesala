@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T17:12:32.030Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="zSRdoOkMylQVVlWgNtze" version="14.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-01-31T17:13:12.194Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="Uv0zvvVCLVQkMmp7NIVH" version="14.2.9" type="github" pages="12">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
-    <mxGraphModel dx="1038" dy="1749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -838,7 +838,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bGLb10JhF2FPPq8QzSZH" name="Dijagram slijeda pogađanja slova">
-    <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-0" />
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-1" parent="jQXUa_FAPt4DyaAIMkiV-0" />
@@ -933,7 +933,7 @@
           <mxGeometry x="190" y="750" width="370" height="70" as="geometry" />
         </mxCell>
         <mxCell id="GQH2nUB1eIOCjcSmoc6x-38" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="jQXUa_FAPt4DyaAIMkiV-1" vertex="1">
-          <mxGeometry x="640" y="810" width="10" height="20" as="geometry" />
+          <mxGeometry x="637.5" y="810" width="10" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GQH2nUB1eIOCjcSmoc6x-39" value="string:=randomZagonetka()" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" parent="jQXUa_FAPt4DyaAIMkiV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
