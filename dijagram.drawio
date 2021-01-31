@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-31T17:00:45.580Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="ogd1F_XmgokCxQi39ffE" version="14.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-01-31T17:03:29.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="RnJq7HMu_co8ifXAhyMu" version="14.2.9" type="github" pages="12">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
     <mxGraphModel dx="1108" dy="1651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -924,7 +924,7 @@
           <mxGeometry x="155" y="460" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GQH2nUB1eIOCjcSmoc6x-26" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="jQXUa_FAPt4DyaAIMkiV-1" vertex="1">
-          <mxGeometry x="150" y="560" width="300" height="90" as="geometry" />
+          <mxGeometry x="150" y="560" width="300" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GQH2nUB1eIOCjcSmoc6x-31" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" parent="jQXUa_FAPt4DyaAIMkiV-1" vertex="1">
           <mxGeometry x="130" y="690" width="520" height="240" as="geometry" />
@@ -953,8 +953,9 @@
           <mxGeometry x="630" y="610" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KBV5rBORpAnd8UN10AHS-3" value="vjesanje(krivaSlova, tocnaSlova, tajnaRijec)" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" parent="jQXUa_FAPt4DyaAIMkiV-1" target="KBV5rBORpAnd8UN10AHS-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="0.1" relative="1" as="geometry">
             <mxPoint x="230" y="610" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YZozp3WsL97W1G1tITJg-0" value="pokusaj in tajnaRijec" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jQXUa_FAPt4DyaAIMkiV-1">
@@ -971,6 +972,9 @@
         </mxCell>
         <mxCell id="YZozp3WsL97W1G1tITJg-4" value="pokusaj not in tajnaRijec" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jQXUa_FAPt4DyaAIMkiV-1">
           <mxGeometry x="150" y="540" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YZozp3WsL97W1G1tITJg-5" value="[len(krivaSlova)==len(vjesalo)-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="jQXUa_FAPt4DyaAIMkiV-1">
+          <mxGeometry x="150" y="590" width="190" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
