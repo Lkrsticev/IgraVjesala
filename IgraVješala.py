@@ -268,8 +268,7 @@ class Igra(object):
                     tajnaRijec=string[1]
                 else:
                     break
-
-    
+                    
     def igranjeVjesala(self):
         self.prikaz.prikaziPocetakIgre()
         self.prikaz.unesiIgraca()
