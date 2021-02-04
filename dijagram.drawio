@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T14:48:45.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="LOFaStwqDGDSzLNRQqWb" version="14.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-02-04T14:52:28.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="f6rdaAnQC5v1xcDszTdF" version="14.2.9" type="github" pages="12">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
-    <mxGraphModel dx="647" dy="1697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="647" dy="1665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -703,7 +703,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DTWf55XmLp7FyhrIUcBw" name="Dijagram slijeda igranja Vješala">
-    <mxGraphModel dx="647" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="647" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bM9TYZLK7Yx_k6iFeGvT-0" />
         <mxCell id="bM9TYZLK7Yx_k6iFeGvT-1" parent="bM9TYZLK7Yx_k6iFeGvT-0" />
@@ -768,7 +768,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9caAXCAlCa67v1rz6LUo" name="Dijagram slijeda unos igrača">
-    <mxGraphModel dx="647" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="647" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Wl0YwfX12HR2RYoh1TTi-0" />
         <mxCell id="Wl0YwfX12HR2RYoh1TTi-1" parent="Wl0YwfX12HR2RYoh1TTi-0" />
@@ -820,9 +820,9 @@
         <mxCell id="Wl0YwfX12HR2RYoh1TTi-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="Wl0YwfX12HR2RYoh1TTi-1" vertex="1">
           <mxGeometry x="545" y="240" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Wl0YwfX12HR2RYoh1TTi-17" value="4: __init__(ime)" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" parent="Wl0YwfX12HR2RYoh1TTi-1" source="Wl0YwfX12HR2RYoh1TTi-3" target="Wl0YwfX12HR2RYoh1TTi-16" edge="1">
+        <mxCell id="Wl0YwfX12HR2RYoh1TTi-17" value="4: __init__(ime)" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" parent="Wl0YwfX12HR2RYoh1TTi-1" target="Wl0YwfX12HR2RYoh1TTi-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="480" y="230" as="sourcePoint" />
+            <mxPoint x="398" y="240" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="450" y="240" />
             </Array>
@@ -838,7 +838,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bGLb10JhF2FPPq8QzSZH" name="Dijagram slijeda pogađanja slova">
-    <mxGraphModel dx="647" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="647" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-0" />
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-1" parent="jQXUa_FAPt4DyaAIMkiV-0" />
