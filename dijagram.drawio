@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-04T14:28:38.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="WkE5-Za0QsBHESoWHXFO" version="14.2.9" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-02-04T14:48:45.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="LOFaStwqDGDSzLNRQqWb" version="14.2.9" type="github" pages="12">
   <diagram id="t7AAfB5uRZc5TJ6AGRy_" name="UseCase: Igra Vješala">
-    <mxGraphModel dx="1293" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="647" dy="1697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -703,7 +703,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="DTWf55XmLp7FyhrIUcBw" name="Dijagram slijeda igranja Vješala">
-    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="647" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="bM9TYZLK7Yx_k6iFeGvT-0" />
         <mxCell id="bM9TYZLK7Yx_k6iFeGvT-1" parent="bM9TYZLK7Yx_k6iFeGvT-0" />
@@ -728,7 +728,7 @@
         <mxCell id="bM9TYZLK7Yx_k6iFeGvT-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="bM9TYZLK7Yx_k6iFeGvT-1" vertex="1">
           <mxGeometry x="240.5" y="120" width="10" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="bM9TYZLK7Yx_k6iFeGvT-6" value="igranjeVješala" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" parent="bM9TYZLK7Yx_k6iFeGvT-1" source="bM9TYZLK7Yx_k6iFeGvT-2" target="bM9TYZLK7Yx_k6iFeGvT-5" edge="1">
+        <mxCell id="bM9TYZLK7Yx_k6iFeGvT-6" value="1: igranjeVješala" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" parent="bM9TYZLK7Yx_k6iFeGvT-1" source="bM9TYZLK7Yx_k6iFeGvT-2" target="bM9TYZLK7Yx_k6iFeGvT-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="150" y="170" as="sourcePoint" />
             <Array as="points">
@@ -747,7 +747,7 @@
         <mxCell id="bM9TYZLK7Yx_k6iFeGvT-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" parent="bM9TYZLK7Yx_k6iFeGvT-1" vertex="1">
           <mxGeometry x="250.5" y="250" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bM9TYZLK7Yx_k6iFeGvT-14" value="pogadanjeSlova()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=0.95;exitY=0.579;exitDx=0;exitDy=0;exitPerimeter=0;" parent="bM9TYZLK7Yx_k6iFeGvT-1" source="bM9TYZLK7Yx_k6iFeGvT-5" target="bM9TYZLK7Yx_k6iFeGvT-13" edge="1">
+        <mxCell id="bM9TYZLK7Yx_k6iFeGvT-14" value="4: pogadanjeSlova()" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1;entryY=0;exitX=0.95;exitY=0.579;exitDx=0;exitDy=0;exitPerimeter=0;" parent="bM9TYZLK7Yx_k6iFeGvT-1" source="bM9TYZLK7Yx_k6iFeGvT-5" target="bM9TYZLK7Yx_k6iFeGvT-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="255.5" y="230" as="sourcePoint" />
             <Array as="points">
@@ -756,7 +756,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cwcxSrpZcxh2CqjqxE9f-1" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" parent="bM9TYZLK7Yx_k6iFeGvT-1" source="bM9TYZLK7Yx_k6iFeGvT-5" target="cwcxSrpZcxh2CqjqxE9f-0" edge="1">
+        <mxCell id="cwcxSrpZcxh2CqjqxE9f-1" value="3: unosIgraca()" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;" parent="bM9TYZLK7Yx_k6iFeGvT-1" source="bM9TYZLK7Yx_k6iFeGvT-5" target="cwcxSrpZcxh2CqjqxE9f-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="180" as="sourcePoint" />
             <Array as="points">
@@ -768,7 +768,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="9caAXCAlCa67v1rz6LUo" name="Dijagram slijeda unos igrača">
-    <mxGraphModel dx="1108" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="647" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="Wl0YwfX12HR2RYoh1TTi-0" />
         <mxCell id="Wl0YwfX12HR2RYoh1TTi-1" parent="Wl0YwfX12HR2RYoh1TTi-0" />
@@ -838,7 +838,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bGLb10JhF2FPPq8QzSZH" name="Dijagram slijeda pogađanja slova">
-    <mxGraphModel dx="810" dy="440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="647" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-0" />
         <mxCell id="jQXUa_FAPt4DyaAIMkiV-1" parent="jQXUa_FAPt4DyaAIMkiV-0" />
